@@ -58,12 +58,12 @@ The **Study Planner App** allows users to:
 
 | Screen | Preview |
 |--------|----------|
-| Splash Screen | ![Splash Screen](screenshots/splash.png) |
-| Today Screen | ![Today Screen](screenshots/today.png) |
-| Calendar View | ![Calendar View](screenshots/calendar.png) |
-| New Task | ![New Task](screenshots/new_task.png) |
+| Splash Screen | ![Splash Screen](screenshot/splash.png) |
+| Today Screen | ![Today Screen](screenshot/today.png) |
+| Calendar View | ![Calendar View](screenshot/calendar.png) |
+| New Task | ![New Task](screenshot/new_task.png) |
 
-> 📸 Make sure all screenshots are inside a folder named `screenshots/` at the root of your project.
+
 
 ---
 
